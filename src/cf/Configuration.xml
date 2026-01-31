@@ -28,7 +28,7 @@
 			</xr:ContainedObject>
 			<xr:ContainedObject>
 				<xr:ClassId>fb282519-d103-4dd3-bc12-cb271d631dfc</xr:ClassId>
-				<xr:ObjectId>6085f798-0fff-47ce-9153-575f665d416f</xr:ObjectId>
+				<xr:ObjectId>c42ad36c-3dd3-4272-ad97-5ee5d0a32d4f</xr:ObjectId>
 			</xr:ContainedObject>
 		</InternalInfo>
 		<Properties>
@@ -227,6 +227,7 @@
 		<ChildObjects>
 			<Language>Русский</Language>
 			<Role>ПолныеПрава</Role>
+			<CommonModule>ОбщийМодуль1</CommonModule>
 			<Catalog>Номенклатура</Catalog>
 			<Catalog>Склады</Catalog>
 			<Catalog>Контрагенты</Catalog>
