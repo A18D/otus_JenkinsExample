@@ -1,34 +1,34 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <MetaDataObject xmlns="http://v8.1c.ru/8.3/MDClasses" xmlns:app="http://v8.1c.ru/8.2/managed-application/core" xmlns:cfg="http://v8.1c.ru/8.1/data/enterprise/current-config" xmlns:cmi="http://v8.1c.ru/8.2/managed-application/cmi" xmlns:ent="http://v8.1c.ru/8.1/data/enterprise" xmlns:lf="http://v8.1c.ru/8.2/managed-application/logform" xmlns:style="http://v8.1c.ru/8.1/data/ui/style" xmlns:sys="http://v8.1c.ru/8.1/data/ui/fonts/system" xmlns:v8="http://v8.1c.ru/8.1/data/core" xmlns:v8ui="http://v8.1c.ru/8.1/data/ui" xmlns:web="http://v8.1c.ru/8.1/data/ui/colors/web" xmlns:win="http://v8.1c.ru/8.1/data/ui/colors/windows" xmlns:xen="http://v8.1c.ru/8.3/xcf/enums" xmlns:xpr="http://v8.1c.ru/8.3/xcf/predef" xmlns:xr="http://v8.1c.ru/8.3/xcf/readable" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="2.11">
-	<Catalog uuid="3dc7b3ec-f5f7-406b-8c9c-2f0513e6a597">
+	<Catalog uuid="a2269590-100b-4cba-9905-7b05c4c16d2e">
 		<InternalInfo>
-			<xr:GeneratedType name="CatalogObject.Склады" category="Object">
-				<xr:TypeId>0b5b0a43-2d8e-4689-9318-265bfb78c040</xr:TypeId>
-				<xr:ValueId>b6b7cfa5-5298-458f-81dc-843c2182d275</xr:ValueId>
+			<xr:GeneratedType name="CatalogObject.Сотрудники" category="Object">
+				<xr:TypeId>ca9c2c99-5229-473d-af98-9e1478732b2c</xr:TypeId>
+				<xr:ValueId>2744ed81-fe57-4a97-b8a7-3d3fc2af363c</xr:ValueId>
 			</xr:GeneratedType>
-			<xr:GeneratedType name="CatalogRef.Склады" category="Ref">
-				<xr:TypeId>a65921ab-44ec-4cee-980e-fa862799b372</xr:TypeId>
-				<xr:ValueId>f7acfa06-d35e-4b82-99b5-cf1a7a188b24</xr:ValueId>
+			<xr:GeneratedType name="CatalogRef.Сотрудники" category="Ref">
+				<xr:TypeId>56c578ef-6374-4574-b4da-7bb510e28665</xr:TypeId>
+				<xr:ValueId>9bcf3fc9-fae5-44c0-b25b-5abfc4ea048b</xr:ValueId>
 			</xr:GeneratedType>
-			<xr:GeneratedType name="CatalogSelection.Склады" category="Selection">
-				<xr:TypeId>823cb43b-719a-4790-839e-253b846e898f</xr:TypeId>
-				<xr:ValueId>1ef3bf82-ebf0-4dc9-a589-269c3bb6578d</xr:ValueId>
+			<xr:GeneratedType name="CatalogSelection.Сотрудники" category="Selection">
+				<xr:TypeId>80919435-69e4-4adb-b440-fe5973536325</xr:TypeId>
+				<xr:ValueId>e1b950ea-5a41-4e4f-ae82-2ae410928574</xr:ValueId>
 			</xr:GeneratedType>
-			<xr:GeneratedType name="CatalogList.Склады" category="List">
-				<xr:TypeId>1170d77e-9b22-4664-90d1-0c8047ff7379</xr:TypeId>
-				<xr:ValueId>a2e648ff-ac0e-4ddd-a2f8-215efdd166c9</xr:ValueId>
+			<xr:GeneratedType name="CatalogList.Сотрудники" category="List">
+				<xr:TypeId>239e048d-9a56-438f-ad35-a6fd6d0cef35</xr:TypeId>
+				<xr:ValueId>b6bcdad7-32a9-4454-8591-a91fa3e89113</xr:ValueId>
 			</xr:GeneratedType>
-			<xr:GeneratedType name="CatalogManager.Склады" category="Manager">
-				<xr:TypeId>f6d27d55-38f2-49c4-a6f5-8ea5a1371532</xr:TypeId>
-				<xr:ValueId>536c39e9-0550-4bea-b3c0-87b589afa93f</xr:ValueId>
+			<xr:GeneratedType name="CatalogManager.Сотрудники" category="Manager">
+				<xr:TypeId>d7cfb755-ab40-4404-af6f-c49d722ff79c</xr:TypeId>
+				<xr:ValueId>530c084d-f58c-45b9-a76f-50034105c666</xr:ValueId>
 			</xr:GeneratedType>
 		</InternalInfo>
 		<Properties>
-			<Name>Склады</Name>
+			<Name>Сотрудники</Name>
 			<Synonym>
 				<v8:item>
 					<v8:lang>ru</v8:lang>
-					<v8:content>Склады</v8:content>
+					<v8:content>Сотрудники</v8:content>
 				</v8:item>
 			</Synonym>
 			<Comment/>
@@ -54,8 +54,8 @@
 			<QuickChoice>false</QuickChoice>
 			<ChoiceMode>BothWays</ChoiceMode>
 			<InputByString>
-				<xr:Field>Catalog.Склады.StandardAttribute.Description</xr:Field>
-				<xr:Field>Catalog.Склады.StandardAttribute.Code</xr:Field>
+				<xr:Field>Catalog.Сотрудники.StandardAttribute.Description</xr:Field>
+				<xr:Field>Catalog.Сотрудники.StandardAttribute.Code</xr:Field>
 			</InputByString>
 			<SearchStringModeOnInputByString>Begin</SearchStringModeOnInputByString>
 			<FullTextSearchOnInputByString>DontUse</FullTextSearchOnInputByString>
@@ -78,7 +78,7 @@
 			<ObjectPresentation>
 				<v8:item>
 					<v8:lang>ru</v8:lang>
-					<v8:content>Склад</v8:content>
+					<v8:content>Сотрудник</v8:content>
 				</v8:item>
 			</ObjectPresentation>
 			<ExtendedObjectPresentation/>
