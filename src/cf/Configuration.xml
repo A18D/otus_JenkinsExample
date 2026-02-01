@@ -227,7 +227,7 @@
 		<ChildObjects>
 			<Language>Русский</Language>
 			<Role>ПолныеПрава</Role>
-			<CommonModule>ОбщийМодуль1</CommonModule>
+			<CommonModule>Продажи</CommonModule>
 			<Catalog>Номенклатура</Catalog>
 			<Catalog>Склады</Catalog>
 			<Catalog>Контрагенты</Catalog>
