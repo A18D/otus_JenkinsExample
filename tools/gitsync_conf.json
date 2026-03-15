@@ -24,23 +24,23 @@
   "repositories": [
     {
       "name": "otus",
-      "path": "tcp://KyralesGun/Storage/storage.1ccr/StorageOtus",
+      "path": "E:/Project1C/StorageBilet5",
       "dir": "./src/cf",
       "temp-dir": "",
-      "v8version": "8.3.25.1546",
+      "v8version": "8.3.18.1289",
       "plugins-config": {
-        "URL": "https://github.com/Kyrales/otus_JenkinsExample.git"
+        "URL": "https://github.com/A18D/otus_JenkinsExample.git"
       }
     },
     {
         "name": "YAXUNIT",
         "extension": "YAXUNIT",
-        "path": "tcp://KyralesGun/Storage/storage.1ccr/StorageOtus_yaxunit",
+        "path": "E:/Project1C/StorageBilet5Yaxunit",
         "dir": "./src/cfe/yaxunit",
         "temp-dir": "",
-        "v8version": "8.3.25.1546",
+        "v8version": "8.3.18.1289",
         "plugins-config": {
-          "URL": "https://github.com/Kyrales/otus_JenkinsExample.git"
+          "URL": "https://github.com/A18D/otus_JenkinsExample.git"
         }
      }
   ]
