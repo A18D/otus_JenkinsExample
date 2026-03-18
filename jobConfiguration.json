@@ -43,7 +43,7 @@
     "initMethod": "fromStorage",
     "runMigration": true,
     "additionalInitializationSteps": [],
-    "templateDBPath": "E:/Project1C/Bilet 5 file Etalon/1Cv8.1CD",
+    "templateDBPath": "E:/Project1C/Bilet_5_file_Etalon/1Cv8.1CD",
     "vrunnerSettings": "./tools/vrunner.json",
     "extensions": [
       {
