@@ -34,7 +34,7 @@
     },
     {
         "name": "YAXUNIT",
-        "extension": "YAxUnit",
+        "Extension": "YAXUNIT",
         "path": "E:/Project1C/StorageBilet5Yaxunit",
         "dir": "./src/cfe/yaxunit",
         "temp-dir": "",
